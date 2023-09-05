@@ -1,0 +1,4 @@
+BackCover.pdf filter=lfs diff=lfs merge=lfs -text
+Cover.pdf filter=lfs diff=lfs merge=lfs -text
+CoverTitlePage.pdf filter=lfs diff=lfs merge=lfs -text
+TitlePage.pdf filter=lfs diff=lfs merge=lfs -text
